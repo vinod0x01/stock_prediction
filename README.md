@@ -3,4 +3,4 @@
 * using the yahoo finance data
 
 * finding moving avarage values
-[!alt text](https://github.com/raita0100/stock_prediction/images/Unknown.png)
+![alt text](https://github.com/raita0100/stock_prediction/blob/master/images/Unknown.png)
